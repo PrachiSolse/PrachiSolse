@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Final-Year Electronics & Telecommunication Engineering Student <br/>
 📊 Aspiring Data Scientist | IoT + ML Enthusiast <br/>
-🌍 Pune • Solapur, Maharashtra
+🌍 Ahilyanagar • Solapur, Maharashtra
 </p>
 
 ---
@@ -31,7 +31,7 @@ Currently learning & working on:
 **Soft Skills:** Leadership, Teamwork, Problem Solving, Communication
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode" />
 </p>
 
 ---
@@ -62,7 +62,6 @@ Currently learning & working on:
 - Delivered alerts + dashboards for monitoring  
 - **Tech:** Python, ML Models, Data Visualization  
 
-🔗 *Check repo below—or ask me for a demo!*
 
 ---
 
