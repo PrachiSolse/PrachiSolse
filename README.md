@@ -66,9 +66,9 @@ Currently learning & working on:
 ---
 
 ### 🎓 Certifications
-- Deloitte – Technology Job Simulation (2025)
-- Infosys Springboard – Python (2025)
-- TCS iON – Communication Skills (2024)
+- Google – 
+- IBM – Python (2025)
+- IBM– Communication Skills (2024)
 
 ---
 
