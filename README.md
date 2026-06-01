@@ -79,7 +79,7 @@ Currently learning & working on:
 <a href="https://github.com/PrachiSolse"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
-📩 Email: **prachisolse.nbnscoe.entc@gmail.com**
+📩 Email: **prachi18st@gmail.com**
 
 ---
 
