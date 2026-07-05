@@ -61,6 +61,7 @@ Currently learning & working on:
 
 ---
 **COVID-19 Global Data Analysis**
+
 • Analyzed global COVID-19 datasets covering cases, deaths, and vaccinations using Python, SQL, Pandas, and
 Matplotlib.
 • Conducted exploratory data analysis and time-series analysis to identify trends and patterns.
