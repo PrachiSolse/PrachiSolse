@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hi, I'm Prachi Solse</h1>
 
 <p align="center">
-🚀 Final-Year Electronics & Telecommunication Engineering Student <br/>
+🚀 BTech in Electronics & Telecommunication Engineering <br/>
 📊 Aspiring Data Scientist | IoT + ML Enthusiast <br/>
-🌍 Ahilyanagar • Solapur, Maharashtra
+🌍 Ahilyanagar • Pune, Maharashtra
 </p>
 
 ---
 
 ### 💡 About Me
-Curious mind fueled by **data, ML & IoT innovation** 🌱  
+Curious about **data, ML & IoT innovation** 🌱  
 I enjoy exploring how real-world problems can be solved using  
 **machine learning, analytics, and intelligent systems**.
 
@@ -38,13 +38,10 @@ Currently learning & working on:
 
 ### 🧪 Experience
 
-**🔹 Schneider Electric – Intern (Jan 2026–Present)**  
+**🔹 Schneider Electric – Intern (Jan 2026-July 2026)**  
 - Manual & automated testing for industrial components (MCB, Contactors, Isolators)  
 - Programmed test benches for product validation and reliability  
-
-**🔹 AWS Academy – Cloud Intern (Nov 2025–Dec 2025)**  
-- Gained hands-on experience in AWS cloud basics  
-- Deployed and worked with AWS core services foundations  
+ 
 
 ---
 
@@ -60,15 +57,22 @@ Currently learning & working on:
   - Anomaly detection  
   - Trend analysis  
 - Delivered alerts + dashboards for monitoring  
-- **Tech:** Python, ML Models, Data Visualization  
+- **Tech:** Python, ML Models, Data Visualization 
+
+---
+**COVID-19 Global Data Analysis**
+• Analyzed global COVID-19 datasets covering cases, deaths, and vaccinations using Python, SQL, Pandas, and
+Matplotlib.
+• Conducted exploratory data analysis and time-series analysis to identify trends and patterns.
+• Developed dashboards and visual reports to communicate insights effectively to stakeholders.
 
 
 ---
 
 ### 🎓 Certifications
-- Google – 
-- IBM – Python (2025)
-- IBM– Communication Skills (2024)
+- Google – Foundations: Data, Data, Everywhere 
+- IBM – Python for Data Science, AI & Development
+- IBM– Introduction to Data Analytics
 
 ---
 
